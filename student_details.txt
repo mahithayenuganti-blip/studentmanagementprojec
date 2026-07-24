@@ -1,0 +1,5 @@
+Student Details 
+ID: 2500030077 
+Name: Mahitha 
+Branch: CSE 
+Year: 2nd Year 
