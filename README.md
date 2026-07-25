@@ -1,2 +1,2 @@
-Student Management Projec
+Student Management Project
 
