@@ -1,3 +1,2 @@
-Student Management Projec
-
+StuManSys 11111
 
