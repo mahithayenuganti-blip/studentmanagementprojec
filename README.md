@@ -1,1 +1,2 @@
-Stdent Details
+Student Management Projec
+
