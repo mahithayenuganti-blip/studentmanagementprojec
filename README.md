@@ -1,3 +1,2 @@
-Student Management Projec
-
+SMS
 
