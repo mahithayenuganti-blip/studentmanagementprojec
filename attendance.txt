@@ -1,3 +1,3 @@
 Attendance Details 
 Student ID: 2500030077 
-Attendance: 95%% 
+Attendance: 95%
